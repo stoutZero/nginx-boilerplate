@@ -1,9 +1,9 @@
-#Nginx Boilerplate 
+# Nginx Boilerplate 
 
 Selfishly modified version of [nginx-boilerplate](https://github.com/nginx-boilerplate/nginx-boilerplate)
 
 ## Beware
-This is only for compiled nginx, as the default path is different.
+This is only for compiled nginx, as the default path is different,
 `/usr/local/nginx` as opposed to `/etc/nginx`
 
 ## Features
