@@ -1,3 +1,5 @@
+# Mitigate https://httpoxy.org/ vulnerabilities
+fastcgi_param HTTP_PROXY "";
 fastcgi_param SERVER_SIGNATURE      "Nginx/$nginx_version Server at $server_name Port $server_port";
 fastcgi_param SERVER_SOFTWARE       "Nginx/$nginx_version";
 fastcgi_param SERVER_NAME           "$server_name";
